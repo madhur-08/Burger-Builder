@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 import Aux from "../Auxiliary/Auxiliary";
 import classes from "./Layout.css";
 import Toolbar from "../../components/Navigation/Toolbar/Toolbar";
